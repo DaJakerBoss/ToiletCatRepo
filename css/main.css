@@ -54,7 +54,7 @@ a:link, a:visited {
 }
 
 .repobtn {
-  display: inline-block;
+  display: block;
   background: rgba(0, 0, 0, 0.1);
   border: 2px solid #FFF;
   border-radius: 3px;
