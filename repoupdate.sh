@@ -7,5 +7,3 @@ read message
 git add .
 git commit -m "$message"
 git push
-
-#copied from Dgh0st.github.io
